@@ -1,0 +1,15 @@
+{
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascript",
+    "html": "HTML"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggest.preview": true,
+  "editor.suggest.showClasses": true,
+  "editor.suggest.showMethods": true,
+  "editor.suggest.showProperties": true,
+"editor.suggest.showWords": true
+} 
